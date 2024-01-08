@@ -17,8 +17,8 @@ Manufacturing,...
 O-ERP Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
 a full-featured Open Source ERP when you install several Apps.
 
-Getting started with Odoo
--------------------------
+Getting started with O-ERP
+--------------------------
 
 For a standard installation please follow the Setup instructions based on your understanding from the code.
 
